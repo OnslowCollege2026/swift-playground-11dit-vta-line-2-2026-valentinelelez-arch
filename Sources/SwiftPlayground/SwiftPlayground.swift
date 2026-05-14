@@ -5,6 +5,8 @@
 struct SwiftPlayground {
     static func main() {
 //Modifying Arrays
-
+var gymBadges = ["Boulder", "Cascade", "Thunder"]
+gymBadges.append("Rainbow")
+print(gymBadges)
     }
 }
