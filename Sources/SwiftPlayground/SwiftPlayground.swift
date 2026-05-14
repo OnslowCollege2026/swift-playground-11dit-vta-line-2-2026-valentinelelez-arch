@@ -26,6 +26,17 @@ os.remove(at: index)
 print(os)
 
 // Task 1:
-var invitees = 
+print("Hello, please insert the names ivited to your party.")
+var invitees = [""]
+var userInput = readLine()!
+print("Are there any names you would like to remove? Type Yes or No:")
+userInput = readLine()!
+var No = userInput
+var Yes = userInput
+if No ==  {
+    print("Ok here are the names invited to your part: \(invitees)")
+} else if == {
+    
+}
     }
 }
