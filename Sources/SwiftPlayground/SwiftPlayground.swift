@@ -25,6 +25,7 @@ os.remove(at: index)
 }
 print(os)
 
-
+// Task 1:
+var invitees = 
     }
 }
